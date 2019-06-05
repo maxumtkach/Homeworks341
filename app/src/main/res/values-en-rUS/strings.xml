@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Locale Application</string>
+    <string name="text_lang">english version</string>
+    <string name="lang_text_en">Lang en</string>
+    <string name="lang_text_ru">Lang ru</string>
+    <string name="textView_text">English version</string>
+    <string name="lang_item">Choose language</string>
+    <string name="color_item">Choose color</string>
+    <string name="button_colors">ok</string>
+    <string name="LANG_ENGLISH_STRING">английский</string>
+    <string name="LANG_RUS_STRING">russian</string>
+    <string name="COLOR_STRING_BLACK_RU">черный</string>
+    <string name="COLOR_STRING_GREEN_EN">green</string>
+    <string name="COLOR_STRING_BLACK_EN">black</string>
+    <string name="COLOR_STRING_GREEN_RU">зеленый</string>
+    <string name="COLOR_STRING_BLUE_RU">синий</string>
+    <string name="COLOR_STRING_BLUE_EN">blue</string>
+    <string-array name="language">
+        <item></item>
+        <item>russian</item>
+        <item>english</item>
+    </string-array>
+    <string-array name="colors">
+        <item></item>
+        <item>black</item>
+        <item>green</item>
+        <item>blue</item>
+    </string-array>
+</resources>

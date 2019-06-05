@@ -1,0 +1,39 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="ThemeGreen" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:colorBackground">@color/colorAccentGreen</item>
+        <item name="colorPrimary">@color/colorPrimaryGreen</item>
+        <item name="colorPrimaryDark">@color/colorBlack</item>
+        <item name="colorButtonNormal">@color/colorButtonGreen</item>
+        <item name="colorAccent">@color/colorAccentGreen</item>
+        <item name="android:textColor">@color/colorTextGreen</item>
+    </style>
+
+    <style name="ThemeBlack" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:colorBackground">@color/colorAccentBlack</item>
+        <item name="colorButtonNormal">@color/colorButtonBlack</item>
+        <item name="colorPrimary">@color/colorPrimaryBlack</item>
+        <item name="colorPrimaryDark">@color/colorBlack</item>
+        <item name="android:textColor">@color/colorTextBlack</item>
+    </style>
+
+    <style name="ThemeBlue" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimaryBlue</item>
+        <item name="colorPrimaryDark">@color/colorBlack</item>
+        <item name="colorAccent">@color/colorAccentBlue</item>
+        <item name="android:textColor">@color/colorTextBlue</item>
+        <item name="colorButtonNormal">@color/colorButtonBlue</item>
+        <item name="android:colorBackground">@color/colorPrimaryDarkBlue</item>
+
+
+    </style>
+</resources>
